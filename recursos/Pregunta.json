@@ -1,0 +1,74 @@
+[
+  {
+  "enunciado": "Juan tiene 2 manzanas, cuantas manzanas tiene Juan",
+    "tema": "manzanas",
+    "dificultad": "FACIL",
+    "reserva": true,
+    "respuestas": [
+      {
+        "texto": "2",
+        "correcta": true
+      },
+      {
+        "texto": "1",
+        "correcta": false
+      },
+      {
+        "texto": "4",
+        "correcta": false
+      },
+      {
+        "texto": "5",
+        "correcta": false
+      }
+    ]
+},
+  {
+    "enunciado": "Juan tiene 5 manzanas, cuantas manzanas tiene Juan",
+    "tema": "manzanas",
+    "dificultad": "FACIL",
+    "reserva": false,
+    "respuestas": [
+      {
+        "texto": "2",
+        "correcta": false
+      },
+      {
+        "texto": "1",
+        "correcta": false
+      },
+      {
+        "texto": "4",
+        "correcta": false
+      },
+      {
+        "texto": "5",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "cuanto pesa una manzana",
+    "tema": "manzanas",
+    "dificultad": "MEDIO",
+    "reserva": false,
+    "respuestas": [
+      {
+        "texto": "2",
+        "correcta": false
+      },
+      {
+        "texto": "1",
+        "correcta": false
+      },
+      {
+        "texto": "4",
+        "correcta": true
+      },
+      {
+        "texto": "5",
+        "correcta": false
+      }
+    ]
+  }
+]
